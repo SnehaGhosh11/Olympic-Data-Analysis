@@ -1,2 +1,6 @@
-# Olympic-Data-Analysis
-Olympic data using machine learning to explore historical trends, athlete performance, and country achievements, applying models like Decision Trees, Random Forest, and Logistic Regression. Key insights and predictive modeling offer a deep dive into factors influencing Olympic outcomes.
+# olympics-data-analysis-web-app
+A Streamlit web application for the analysis of olympics dataset
+
+Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Live Demo: https://oda-campusx.herokuapp.com/
